@@ -1,0 +1,10 @@
+# Station configuration
+
+# Directory which contains test record output.
+output_path: output
+
+# Enable the station server.
+run_server: True
+
+# Port on which to serve the app.
+station_server_port: 4444

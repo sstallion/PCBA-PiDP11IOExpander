@@ -1,0 +1,7 @@
+# Windows support in OpenHTF is touchy at best; patches are needed on top of
+# the v1.4.4 release to install the package and execute tests:
+git+https://github.com/sstallion/openhtf.git@v1.4.4-windows#egg=openhtf
+
+# openhtf-common provides a number of convenience functions and types. It is
+# still in development and unlikely to be uploaded to PyPI any time soon:
+-e git+https://github.com/sstallion/openhtf-common.git#egg=openhtf_common
