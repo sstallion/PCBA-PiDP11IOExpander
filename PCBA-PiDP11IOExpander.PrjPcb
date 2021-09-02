@@ -208,7 +208,7 @@ Value=PiDP-11 I/O Expander PCBA
 
 [Parameter3]
 Name=ProjectRev
-Value=
+Value=A
 
 [Configuration1]
 Name=Sources
