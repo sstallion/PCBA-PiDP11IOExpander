@@ -72,12 +72,12 @@
     <attribute>
       <id>235</id>
       <datatype>B</datatype>
-      <value>1</value>
+      <value>0</value>
     </attribute>
     <attribute>
       <id>98</id>
       <datatype>A</datatype>
-      <value>0x07</value>
+      <value>0x07 </value>
     </attribute>
     <attribute>
       <id>99</id>
@@ -107,7 +107,7 @@
     <attribute>
       <id>104</id>
       <datatype>A</datatype>
-      <value>0x0d</value>
+      <value>0x0d </value>
     </attribute>
     <attribute>
       <id>105</id>
@@ -962,5 +962,5 @@
       <value>False</value>
     </attribute>
   </extended_attrib_list>
-  <self-hash>98e57e4a4b2d29cea14eb9b7bfbc1cad</self-hash>
+  <self-hash>b862c9c408b58b55a53d997df0b96ee6</self-hash>
 </scannerconfig>
