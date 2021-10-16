@@ -35,12 +35,12 @@ For more details, see the latest release on [GitHub][12].
 
 ## Contributing
 
-Pull requests are welcome! See [CONTRIBUTING.md][13] for more details.
+Pull requests are welcome! See [CONTRIBUTING.md] for more details.
 
 ## License
 
 Source code in this repository is licensed under a Simplified BSD License. See
-[LICENSE.txt][14] for more details.
+[LICENSE.txt] for more details.
 
 [1]: https://obsolescence.wixsite.com/obsolescence/pidp-11
 [2]: https://www.raspberrypi.org/
@@ -54,5 +54,6 @@ Source code in this repository is licensed under a Simplified BSD License. See
 [10]: https://github.com/google/openhtf
 [11]: https://chocolatey.org/install
 [12]: https://github.com/sstallion/PCBA-PiDP11IOExpander/releases/latest
-[12]: https://github.com/sstallion/PCBA-PiDP11IOExpander/blob/master/CONTRIBUTING.md
-[13]: https://github.com/sstallion/PCBA-PiDP11IOExpander/blob/master/LICENSE.txt
+
+[CONTRIBUTING.md]: CONTRIBUTING.md
+[LICENSE.txt]: LICENSE.txt
